@@ -1,0 +1,11 @@
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\bin\Release\ArduinoBeats.exe.config
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\bin\Release\ArduinoBeats.exe
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\bin\Release\ArduinoBeats.pdb
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\bin\Release\NAudio.dll
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\bin\Release\NAudio.xml
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\obj\Release\ArduinoBeats.Form1.resources
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\obj\Release\ArduinoBeats.Properties.Resources.resources
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\obj\Release\ArduinoBeats.csproj.GenerateResource.Cache
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\obj\Release\ArduinoBeats.exe
+C:\Users\kazep\Documents\Visual Studio 2015\Projects\ArduinoBeats\ArduinoBeats\obj\Release\ArduinoBeats.pdb

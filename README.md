@@ -4,3 +4,7 @@ Arduino Beats lets you synchronize your LEDs connected to Arduino by getting the
 **Preview**
 
 https://www.youtube.com/watch?v=h0-f2_mEwQI
+
+**Schematics for the LED connection**
+
+http://imgur.com/HEGK9TP
